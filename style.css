@@ -27,6 +27,12 @@
     .conteudo {
         width: auto;
     }
+    .botao_link {
+        width: 200px;
+    }
+    .rodape {
+        width:auto;
+    }
 }
 
 * {
