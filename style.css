@@ -27,12 +27,6 @@
     .conteudo {
         width: auto;
     }
-    .botao_link {
-        width: 200px;
-    }
-    .rodape {
-        width:auto;
-    }
 }
 
 * {
@@ -82,7 +76,7 @@ body {
 
 .conteudo_titulo {
     font-family: var(--fonte-principal);
-    font-size: 2.25rem;
+    font-size: 2rem;
 }
 
 .conteudo_texto {
